@@ -1,0 +1,181 @@
+{
+    "id": "eafdefa1-fc9a-4bde-baa8-58454a9c5b56",
+    "title": "waxam",
+    "author": "",
+    "description": "waxam homepage",
+    "license": "by-sa",
+    "metadata": {
+        "siteName": "waxam",
+        "domain": "https:\/\/btopro.github.io\/waxam",
+        "created": 1554054788,
+        "updated": 1554054949,
+        "theme": {
+            "element": "haxcms-basic-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
+            "name": "Basic site"
+        },
+        "image": "assets\/banner.jpg",
+        "hexCode": "#aeff00",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "publishing": {
+            "git": {
+                "vendor": "github",
+                "branch": "gh-pages",
+                "url": "git@github.com:waxam\/waxam.io.git",
+                "cdn": "cdn.waxam.io"
+            }
+        },
+        "dynamicElementLoader": {
+            "a11y-gif-player": "@lrnwebcomponents\/a11y-gif-player\/a11y-gif-player.js",
+            "citation-element": "@lrnwebcomponents\/citation-element\/citation-element.js",
+            "hero-banner": "@lrnwebcomponents\/hero-banner\/hero-banner.js",
+            "image-compare-slider": "@lrnwebcomponents\/image-compare-slider\/image-compare-slider.js",
+            "license-element": "@lrnwebcomponents\/license-element\/license-element.js",
+            "lrn-aside": "@lrnwebcomponents\/lrn-aside\/lrn-aside.js",
+            "lrn-calendar": "@lrnwebcomponents\/lrn-calendar\/lrn-calendar.js",
+            "lrn-math": "@lrnwebcomponents\/lrn-math\/lrn-math.js",
+            "lrn-table": "@lrnwebcomponents\/lrn-table\/lrn-table.js",
+            "lrn-vocab": "@lrnwebcomponents\/lrn-vocab\/lrn-vocab.js",
+            "lrndesign-blockquote": "@lrnwebcomponents\/lrndesign-blockquote\/lrndesign-blockquote.js",
+            "magazine-cover": "@lrnwebcomponents\/magazine-cover\/magazine-cover.js",
+            "media-behaviors": "@lrnwebcomponents\/media-behaviors\/media-behaviors.js",
+            "media-image": "@lrnwebcomponents\/media-image\/media-image.js",
+            "meme-maker": "@lrnwebcomponents\/meme-maker\/meme-maker.js",
+            "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js",
+            "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
+            "multiple-choice": "@lrnwebcomponents\/multiple-choice\/multiple-choice.js",
+            "paper-audio-player": "@lrnwebcomponents\/paper-audio-player\/paper-audio-player.js",
+            "person-testimonial": "@lrnwebcomponents\/person-testimonial\/person-testimonial.js",
+            "place-holder": "@lrnwebcomponents\/place-holder\/place-holder.js",
+            "q-r": "@lrnwebcomponents\/q-r\/q-r.js",
+            "full-width-image": "@lrnwebcomponents\/full-width-image\/full-width-image.js",
+            "self-check": "@lrnwebcomponents\/self-check\/self-check.js",
+            "simple-concept-network": "@lrnwebcomponents\/simple-concept-network\/simple-concept-network.js",
+            "stop-note": "@lrnwebcomponents\/stop-note\/stop-note.js",
+            "tab-list": "@lrnwebcomponents\/tab-list\/tab-list.js",
+            "task-list": "@lrnwebcomponents\/task-list\/task-list.js",
+            "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
+            "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
+            "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js",
+            "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
+            "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js"
+        },
+        "lastPublished": 1554055230
+    },
+    "items": [
+        {
+            "id": "item-b5040654-1cde-4f9b-9856-874ec676c1a5",
+            "indent": 0,
+            "location": "pages\/item-b5040654-1cde-4f9b-9856-874ec676c1a5\/index.html",
+            "order": 2,
+            "parent": null,
+            "title": "About us",
+            "description": "",
+            "metadata": {
+                "created": 1554054787,
+                "updated": 1554054949
+            }
+        },
+        {
+            "id": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
+            "indent": 0,
+            "location": "pages\/services\/index.html",
+            "order": 1,
+            "parent": null,
+            "title": "Services",
+            "description": "Waxam provides all your training needs for your web component future",
+            "metadata": {
+                "created": 1554054890,
+                "updated": 1554055131
+            }
+        },
+        {
+            "id": "item-c97c9b84-01aa-4107-a05b-981b1532584f",
+            "indent": 1,
+            "location": "pages\/web-components\/index.html",
+            "order": 0,
+            "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
+            "title": "Web components",
+            "description": "",
+            "metadata": {
+                "created": 1554054890,
+                "updated": 1554054949
+            }
+        },
+        {
+            "id": "item-5e541d0e-8d85-4fba-8c34-b28429e69c92",
+            "indent": 1,
+            "location": "pages\/haxeditor\/index.html",
+            "order": 1,
+            "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
+            "title": "HAXEditor",
+            "description": "",
+            "metadata": {
+                "created": 1554054890,
+                "updated": 1554054949
+            }
+        },
+        {
+            "id": "item-a8aa95ac-87f4-42ba-9078-eebbb9f13bbc",
+            "indent": 1,
+            "location": "pages\/haxcms\/index.html",
+            "order": 2,
+            "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
+            "title": "HAXcms",
+            "description": "",
+            "metadata": {
+                "created": 1554054890,
+                "updated": 1554054949
+            }
+        },
+        {
+            "id": "item-b0f958fe-b02b-43b1-9188-602d00a4e0f1",
+            "indent": 1,
+            "location": "pages\/drupal\/index.html",
+            "order": 3,
+            "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
+            "title": "Drupal",
+            "description": "",
+            "metadata": {
+                "created": 1554054890,
+                "updated": 1554054949
+            }
+        },
+        {
+            "id": "item-b8238893-0fab-446a-b967-e1d2aee4b87a",
+            "indent": 1,
+            "location": "pages\/elms-ln\/index.html",
+            "order": 4,
+            "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
+            "title": "ELMS:LN",
+            "description": "",
+            "metadata": {
+                "created": 1554054890,
+                "updated": 1554054949
+            }
+        },
+        {
+            "id": "item-bbea10ea-4281-4cb4-ab32-614d689584ff",
+            "indent": 0,
+            "location": "pages\/home\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Home",
+            "description": "",
+            "metadata": {
+                "created": 1554054949,
+                "updated": 1554055054,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/waxam\/files\/IMG_20181228_113330.jpg",
+                        "fullUrl": "\/_sites\/waxam\/files\/IMG_20181228_113330.jpg",
+                        "url": "files\/IMG_20181228_113330.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20181228_113330.jpg",
+                        "size": 63981
+                    }
+                ]
+            }
+        }
+    ]
+}
