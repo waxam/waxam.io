@@ -76,10 +76,10 @@
             "order": 0,
             "parent": null,
             "title": "About us",
-            "description": "WaxaM",
+            "description": "WaxaMDo you care about the open web?Do you want to eliminate platform lock in?Do you want to build website without having to think about it so much?Do you care about permanence, portability, and d",
             "metadata": {
                 "created": 1554054787,
-                "updated": 1560101464,
+                "updated": 1560104479,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/waxam\/files\/scale-50\/IMG_20181228_113330.jpg",
@@ -101,14 +101,15 @@
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
-                    "paragraphs": 0,
+                    "paragraphs": 6,
                     "schema": [],
                     "tags": {
                         "img": 1,
                         "h2": 1,
+                        "p": 6,
                         "hero-banner": 1
                     },
-                    "elements": 3
+                    "elements": 9
                 }
             }
         },
