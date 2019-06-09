@@ -5,7 +5,7 @@
     "description": "waxam",
     "license": "by-sa",
     "metadata": {
-        "siteName": "waxam",
+        "siteName": "waxamio",
         "domain": "https:\/\/waxam.io",
         "created": 1554054788,
         "updated": 1560097696,
@@ -60,9 +60,13 @@
             "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
             "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js"
         },
-        "lastPublished": 1560101494,
+        "lastPublished": 1560103915,
         "icon": "maps:directions-boat",
-        "publishedLocation": "https:\/\/waxam.io"
+        "publishedLocation": "https:\/\/waxam.io",
+        "fields": {
+            "configure": [],
+            "advanced": []
+        }
     },
     "items": [
         {
