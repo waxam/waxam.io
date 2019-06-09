@@ -1,92 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>waxam</title>
-    <link>https://btopro.github.io/waxam/rss.xml</link>
-    <description>waxam homepage</description>
-    <copyright>Copyright (C) 2019 https://btopro.github.io/waxam</copyright>
+    <title>WaxaM</title>
+    <link>https://waxam.io/rss.xml</link>
+    <description>waxam</description>
+    <copyright>Copyright (C) 2019 https://waxam.io</copyright>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2019 17:55:49 +0000</lastBuildDate>
-    <atom:link href="https://btopro.github.io/waxam/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 09 Jun 2019 10:28:16 -0600</lastBuildDate>
+    <atom:link href="https://waxam.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>About us</title>
-      <link>https://btopro.github.io/waxam/item-b5040654-1cde-4f9b-9856-874ec676c1a5</link>
+      <link>https://waxam.io/item-b5040654-1cde-4f9b-9856-874ec676c1a5</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ WaxaM ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/waxam/item-b5040654-1cde-4f9b-9856-874ec676c1a5</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://waxam.io/item-b5040654-1cde-4f9b-9856-874ec676c1a5</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Web components</title>
+      <link>https://waxam.io/web-components</link>
+      <description>
+          <![CDATA[ WaxaM works commonly in the following web component languagesPolymerLitElementVanillaJS ]]>
+      </description>
+      <category></category>
+      <guid>https://waxam.io/web-components</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
     <item>
       <title>Services</title>
-      <link>https://btopro.github.io/waxam/services</link>
+      <link>https://waxam.io/services</link>
       <description>
           <![CDATA[ Waxam provides all your training needs for your web component future ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/waxam/services</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web components</title>
-      <link>https://btopro.github.io/waxam/web-components</link>
-      <description>
-          <![CDATA[  ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.github.io/waxam/web-components</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://waxam.io/services</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
     <item>
       <title>HAXEditor</title>
-      <link>https://btopro.github.io/waxam/haxeditor</link>
+      <link>https://waxam.io/haxeditor</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ HAXeditor is a revolutionary new way of editing content. It's a block editor that can be extended by simply extending the web.Waxam experts can help you...Implement HAXEditor in your organizationCr ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/waxam/haxeditor</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://waxam.io/haxeditor</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
     <item>
       <title>HAXcms</title>
-      <link>https://btopro.github.io/waxam/haxcms</link>
+      <link>https://waxam.io/haxcms</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ HAXcms is a distributed publishing solution that requires minimal backend to setup and then no backend to power published sites.This workflow makes it ridiculously fast and secure without compromisin ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/waxam/haxcms</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://waxam.io/haxcms</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>Drupal</title>
-      <link>https://btopro.github.io/waxam/drupal</link>
+      <title>Integrations</title>
+      <link>https://waxam.io/services/integrations</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ WaxaM specializes in integrations with the rest of your organization. Our experts have years of experience integrating web components and HAX related projects into production environments. We can help ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/waxam/drupal</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ELMS:LN</title>
-      <link>https://btopro.github.io/waxam/elms-ln</link>
-      <description>
-          <![CDATA[  ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.github.io/waxam/elms-ln</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Home</title>
-      <link>https://btopro.github.io/waxam/home</link>
-      <description>
-          <![CDATA[  ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.github.io/waxam/home</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://waxam.io/services/integrations</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
   </channel>
 </rss>

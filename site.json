@@ -1,22 +1,22 @@
 {
     "id": "eafdefa1-fc9a-4bde-baa8-58454a9c5b56",
-    "title": "waxam",
+    "title": "WaxaM",
     "author": "",
-    "description": "waxam homepage",
+    "description": "waxam",
     "license": "by-sa",
     "metadata": {
-        "siteName": "waxam.io",
+        "siteName": "waxam",
         "domain": "https:\/\/waxam.io",
         "created": 1554054788,
-        "updated": 1554054949,
+        "updated": 1560097696,
         "theme": {
-            "element": "haxcms-basic-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
-            "name": "Basic site"
+            "element": "haxcms-slide-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-slide-theme.js",
+            "name": "Slide deck"
         },
-        "image": "assets\/banner.jpg",
-        "hexCode": "#aeff00",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "image": "files\/scale-50\/IMG_20181228_113330.jpg",
+        "hexCode": "#929100",
+        "cssVariable": "yellow",
         "publishing": {
             "git": {
                 "vendor": "github",
@@ -60,20 +60,66 @@
             "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
             "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js"
         },
-        "lastPublished": 1554055230
+        "lastPublished": 1560101494,
+        "icon": "maps:directions-boat",
+        "publishedLocation": "https:\/\/waxam.io"
     },
     "items": [
         {
             "id": "item-b5040654-1cde-4f9b-9856-874ec676c1a5",
             "indent": 0,
             "location": "pages\/item-b5040654-1cde-4f9b-9856-874ec676c1a5\/index.html",
-            "order": 2,
+            "order": 0,
             "parent": null,
             "title": "About us",
-            "description": "",
+            "description": "WaxaM",
             "metadata": {
                 "created": 1554054787,
-                "updated": 1554054949
+                "updated": 1560101464,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/waxam\/files\/scale-50\/IMG_20181228_113330.jpg",
+                        "fullUrl": "\/_sites\/waxam\/files\/scale-50\/IMG_20181228_113330.jpg",
+                        "url": "files\/scale-50\/IMG_20181228_113330.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20181228_113330.jpg",
+                        "size": 63981
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/waxam\/files\/scale-50\/bee (2).png",
+                        "fullUrl": "\/sites\/waxam\/files\/scale-50\/bee (2).png",
+                        "url": "files\/scale-50\/bee (2).png",
+                        "type": "image\/png",
+                        "name": "bee (2).png",
+                        "size": 4816
+                    }
+                ],
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 0,
+                    "schema": [],
+                    "tags": {
+                        "img": 1,
+                        "h2": 1,
+                        "hero-banner": 1
+                    },
+                    "elements": 3
+                }
+            }
+        },
+        {
+            "id": "item-c97c9b84-01aa-4107-a05b-981b1532584f",
+            "indent": 1,
+            "location": "pages\/web-components\/index.html",
+            "order": 0,
+            "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
+            "title": "Web components",
+            "description": "WaxaM works commonly in the following web component languagesPolymerLitElementVanillaJS",
+            "metadata": {
+                "created": 1554054890,
+                "updated": 1560097695,
+                "readtime": 1
             }
         },
         {
@@ -86,20 +132,7 @@
             "description": "Waxam provides all your training needs for your web component future",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1554055131
-            }
-        },
-        {
-            "id": "item-c97c9b84-01aa-4107-a05b-981b1532584f",
-            "indent": 1,
-            "location": "pages\/web-components\/index.html",
-            "order": 0,
-            "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
-            "title": "Web components",
-            "description": "",
-            "metadata": {
-                "created": 1554054890,
-                "updated": 1554054949
+                "updated": 1560097695
             }
         },
         {
@@ -109,10 +142,21 @@
             "order": 1,
             "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
             "title": "HAXEditor",
-            "description": "",
+            "description": "HAXeditor is a revolutionary new way of editing content. It's a block editor that can be extended by simply extending the web.Waxam experts can help you...Implement HAXEditor in your organizationCr",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1554054949
+                "updated": 1560097696,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "p": 2,
+                        "ul": 1
+                    },
+                    "elements": 3
+                }
             }
         },
         {
@@ -122,59 +166,44 @@
             "order": 2,
             "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
             "title": "HAXcms",
-            "description": "",
+            "description": "HAXcms is a distributed publishing solution that requires minimal backend to setup and then no backend to power published sites.This workflow makes it ridiculously fast and secure without compromisin",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1554054949
+                "updated": 1560097696,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 4,
+                    "schema": [],
+                    "tags": {
+                        "p": 4,
+                        "ul": 1
+                    },
+                    "elements": 5
+                }
             }
         },
         {
-            "id": "item-b0f958fe-b02b-43b1-9188-602d00a4e0f1",
+            "id": "item-4c2d163b-822d-4791-87c4-d0cd6678ddd4",
             "indent": 1,
-            "location": "pages\/drupal\/index.html",
+            "location": "pages\/services\/integrations\/index.html",
             "order": 3,
             "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
-            "title": "Drupal",
-            "description": "",
+            "title": "Integrations",
+            "description": "WaxaM specializes in integrations with the rest of your organization. Our experts have years of experience integrating web components and HAX related projects into production environments. We can help",
             "metadata": {
-                "created": 1554054890,
-                "updated": 1554054949
-            }
-        },
-        {
-            "id": "item-b8238893-0fab-446a-b967-e1d2aee4b87a",
-            "indent": 1,
-            "location": "pages\/elms-ln\/index.html",
-            "order": 4,
-            "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
-            "title": "ELMS:LN",
-            "description": "",
-            "metadata": {
-                "created": 1554054890,
-                "updated": 1554054949
-            }
-        },
-        {
-            "id": "item-bbea10ea-4281-4cb4-ab32-614d689584ff",
-            "indent": 0,
-            "location": "pages\/home\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "Home",
-            "description": "",
-            "metadata": {
-                "created": 1554054949,
-                "updated": 1554055054,
-                "files": [
-                    {
-                        "path": "\/var\/www\/html\/_sites\/waxam\/files\/IMG_20181228_113330.jpg",
-                        "fullUrl": "\/_sites\/waxam\/files\/IMG_20181228_113330.jpg",
-                        "url": "files\/IMG_20181228_113330.jpg",
-                        "type": "image\/jpeg",
-                        "name": "IMG_20181228_113330.jpg",
-                        "size": 63981
-                    }
-                ]
+                "created": 1560097681,
+                "updated": 1560097755,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1
+                    },
+                    "elements": 1
+                }
             }
         }
     ]
