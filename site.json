@@ -2,14 +2,14 @@
     "id": "eafdefa1-fc9a-4bde-baa8-58454a9c5b56",
     "title": "WaxaM",
     "author": "",
-    "description": "waxam",
+    "description": "WaxaM",
     "license": "by-sa",
     "metadata": {
         "site": {
             "name": "waxamio",
             "domain": "https:\/\/waxam.io",
             "created": 1554054788,
-            "updated": 1565813708,
+            "updated": 1565813803,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -25,13 +25,7 @@
         "theme": {
             "element": "haxcms-slide-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-slide-theme.js",
-            "name": "Slide deck",
-            "variables": {
-                "icon": "maps:directions-boat",
-                "image": "",
-                "hexCode": "#929100",
-                "cssVariable": "yellow"
-            }
+            "name": "Slide deck"
         },
         "node": {
             "fields": {
