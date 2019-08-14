@@ -9,7 +9,7 @@
             "name": "waxamio",
             "domain": "https:\/\/waxam.io",
             "created": 1554054788,
-            "updated": 1565810091,
+            "updated": 1565813708,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -28,7 +28,7 @@
             "name": "Slide deck",
             "variables": {
                 "icon": "maps:directions-boat",
-                "image": "files\/scale-50\/IMG_20181228_113330.jpg",
+                "image": "",
                 "hexCode": "#929100",
                 "cssVariable": "yellow"
             }
