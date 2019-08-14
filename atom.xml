@@ -9,15 +9,15 @@
   </author>
   <id>https://waxam.io/feed</id>
   <entry>
-    <title>Integrations</title>
-    <id>https://waxam.io/services/integrations</id>
-    <updated>2019-06-09T10:29:15-06:00</updated>
-    <published>2019-06-09T10:28:01-06:00</published>
-    <summary>WaxaM specializes in integrations with the rest of your organization. Our experts have years of experience integrating web components and HAX related projects into production environments. We can help</summary>
-    <link href="https://waxam.io/services/integrations"/>
+    <title>Services</title>
+    <id>https://waxam.io/services</id>
+    <updated>2019-06-09T10:28:15-06:00</updated>
+    <published>2019-03-31T11:54:50-06:00</published>
+    <summary>Waxam provides all your training needs for your web component future</summary>
+    <link href="https://waxam.io/services"/>
     
     <content type="html">
-      <![CDATA[ <p>WaxaM specializes in integrations with the rest of your organization. Our experts have years of experience integrating web components and HAX related projects into production environments. We can help you get HAX integrated into your organization top to bottom.</p>
+      <![CDATA[ <p>Waxam provides all your training needs for your web component future</p>
  ]]>
     </content>
   </entry>
@@ -36,19 +36,6 @@
 <li>LitElement</li>
 <li>VanillaJS</li>
 </ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Services</title>
-    <id>https://waxam.io/services</id>
-    <updated>2019-06-09T10:28:15-06:00</updated>
-    <published>2019-03-31T11:54:50-06:00</published>
-    <summary>Waxam provides all your training needs for your web component future</summary>
-    <link href="https://waxam.io/services"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Waxam provides all your training needs for your web component future</p>
  ]]>
     </content>
   </entry>

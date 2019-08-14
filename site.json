@@ -194,29 +194,6 @@
                     "elements": 5
                 }
             }
-        },
-        {
-            "id": "item-4c2d163b-822d-4791-87c4-d0cd6678ddd4",
-            "indent": 1,
-            "location": "pages\/services\/integrations\/index.html",
-            "order": 3,
-            "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
-            "title": "Integrations",
-            "description": "WaxaM specializes in integrations with the rest of your organization. Our experts have years of experience integrating web components and HAX related projects into production environments. We can help",
-            "metadata": {
-                "created": 1560097681,
-                "updated": 1560097755,
-                "readtime": 1,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 1,
-                    "schema": [],
-                    "tags": {
-                        "p": 1
-                    },
-                    "elements": 1
-                }
-            }
         }
     ]
 }

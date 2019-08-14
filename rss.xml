@@ -9,15 +9,15 @@
     <lastBuildDate>Sun, 09 Jun 2019 10:28:16 -0600</lastBuildDate>
     <atom:link href="https://waxam.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Integrations</title>
-      <link>https://waxam.io/services/integrations</link>
+      <title>Services</title>
+      <link>https://waxam.io/services</link>
       <description>
-          <![CDATA[ <p>WaxaM specializes in integrations with the rest of your organization. Our experts have years of experience integrating web components and HAX related projects into production environments. We can help you get HAX integrated into your organization top to bottom.</p>
+          <![CDATA[ <p>Waxam provides all your training needs for your web component future</p>
  ]]>
       </description>
       <category></category>
-      <guid>https://waxam.io/services/integrations</guid>
-      <pubDate>Sun, 09 Jun 2019 10:28:01 -0600</pubDate>
+      <guid>https://waxam.io/services</guid>
+      <pubDate>Sun, 31 Mar 2019 11:54:50 -0600</pubDate>
     </item>
     <item>
       <title>Web components</title>
@@ -33,17 +33,6 @@
       </description>
       <category></category>
       <guid>https://waxam.io/web-components</guid>
-      <pubDate>Sun, 31 Mar 2019 11:54:50 -0600</pubDate>
-    </item>
-    <item>
-      <title>Services</title>
-      <link>https://waxam.io/services</link>
-      <description>
-          <![CDATA[ <p>Waxam provides all your training needs for your web component future</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>https://waxam.io/services</guid>
       <pubDate>Sun, 31 Mar 2019 11:54:50 -0600</pubDate>
     </item>
     <item>
