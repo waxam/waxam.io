@@ -9,7 +9,7 @@
             "name": "waxamio",
             "domain": "https:\/\/waxam.io",
             "created": 1554054788,
-            "updated": 1560097696,
+            "updated": 1565810091,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -80,13 +80,13 @@
             "id": "item-b5040654-1cde-4f9b-9856-874ec676c1a5",
             "indent": 0,
             "location": "pages\/item-b5040654-1cde-4f9b-9856-874ec676c1a5\/index.html",
-            "order": 0,
+            "order": "0",
             "parent": null,
             "title": "About Waxam",
             "description": "WaxaMFlip the industry on it's head, doesn't matter; WaxaM will survive any change.Boldness or blindness in that statement?We're here to build a platform that enhances the open web and makes it fun",
             "metadata": {
                 "created": 1554054787,
-                "updated": 1565809795,
+                "updated": 1565810091,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/waxam\/files\/scale-50\/IMG_20181228_113330.jpg",
@@ -122,15 +122,15 @@
         },
         {
             "id": "item-c97c9b84-01aa-4107-a05b-981b1532584f",
-            "indent": 1,
+            "indent": "1",
             "location": "pages\/web-components\/index.html",
-            "order": 0,
+            "order": "0",
             "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
             "title": "Web components",
             "description": "WaxaM works commonly in the following web component languagesPolymerLitElementVanillaJS",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1560097695,
+                "updated": 1565810091,
                 "readtime": 1
             }
         },
@@ -138,26 +138,26 @@
             "id": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
             "indent": 0,
             "location": "pages\/services\/index.html",
-            "order": 1,
+            "order": "1",
             "parent": null,
             "title": "Services",
             "description": "Waxam provides all your training needs for your web component future",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1560097695
+                "updated": 1565810091
             }
         },
         {
             "id": "item-5e541d0e-8d85-4fba-8c34-b28429e69c92",
-            "indent": 1,
+            "indent": "1",
             "location": "pages\/haxeditor\/index.html",
-            "order": 1,
+            "order": "1",
             "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
             "title": "HAXEditor",
             "description": "HAXeditor is a revolutionary new way of editing content. It's a block editor that can be extended by simply extending the web.Waxam experts can help you...Implement HAXEditor in your organizationCr",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1560097696,
+                "updated": 1565810091,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -173,15 +173,15 @@
         },
         {
             "id": "item-a8aa95ac-87f4-42ba-9078-eebbb9f13bbc",
-            "indent": 1,
+            "indent": "1",
             "location": "pages\/haxcms\/index.html",
-            "order": 2,
+            "order": "2",
             "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
             "title": "HAXcms",
             "description": "HAXcms is a distributed publishing solution that requires minimal backend to setup and then no backend to power published sites.This workflow makes it ridiculously fast and secure without compromisin",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1560097696,
+                "updated": 1565810091,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -193,6 +193,19 @@
                     },
                     "elements": 5
                 }
+            }
+        },
+        {
+            "id": "item-80c599d0-c291-44c7-a456-6b80899efc14",
+            "indent": 0,
+            "location": "pages\/integrations\/index.html",
+            "order": "2",
+            "parent": null,
+            "title": "Integrations",
+            "description": "",
+            "metadata": {
+                "created": 1565810091,
+                "updated": 1565810091
             }
         }
     ]

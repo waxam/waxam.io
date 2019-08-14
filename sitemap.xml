@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2019-08-14T13:14:32-06:00" -->
+<!-- generated-on="2019-08-14T13:14:51-06:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://waxam.iohttps://waxam.io/item-b5040654-1cde-4f9b-9856-874ec676c1a5</loc>
-    <lastmod>2019-08-14T13:09:55-06:00</lastmod>
+    <lastmod>2019-08-14T13:14:51-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://waxam.iohttps://waxam.io/web-components</loc>
-    <lastmod>2019-06-09T10:28:15-06:00</lastmod>
+    <lastmod>2019-08-14T13:14:51-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://waxam.iohttps://waxam.io/services</loc>
-    <lastmod>2019-06-09T10:28:15-06:00</lastmod>
+    <lastmod>2019-08-14T13:14:51-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://waxam.iohttps://waxam.io/haxeditor</loc>
-    <lastmod>2019-06-09T10:28:16-06:00</lastmod>
+    <lastmod>2019-08-14T13:14:51-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://waxam.iohttps://waxam.io/haxcms</loc>
-    <lastmod>2019-06-09T10:28:16-06:00</lastmod>
+    <lastmod>2019-08-14T13:14:51-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
