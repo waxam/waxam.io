@@ -83,10 +83,10 @@
             "order": 0,
             "parent": null,
             "title": "About Waxam",
-            "description": "WaxaM",
+            "description": "WaxaMFlip the industry on it's head, doesn't matter; WaxaM will survive any change.Boldness or blindness in that statement?We're here to build a platform that enhances the open web and makes it fun",
             "metadata": {
                 "created": 1554054787,
-                "updated": 1565809659,
+                "updated": 1565809795,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/waxam\/files\/scale-50\/IMG_20181228_113330.jpg",
@@ -108,15 +108,15 @@
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
-                    "paragraphs": 6,
+                    "paragraphs": 10,
                     "schema": [],
                     "tags": {
                         "img": 1,
                         "h2": 1,
-                        "p": 6,
+                        "p": 10,
                         "hero-banner": 1
                     },
-                    "elements": 9
+                    "elements": 13
                 }
             }
         },
