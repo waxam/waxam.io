@@ -9,15 +9,16 @@
   </author>
   <id>https://waxam.io/feed</id>
   <entry>
-    <title>About us</title>
-    <id>https://waxam.io/item-b5040654-1cde-4f9b-9856-874ec676c1a5</id>
-    <updated>2019-06-09T12:21:19-06:00</updated>
-    <published>2019-03-31T11:53:07-06:00</published>
-    <summary>WaxaMDo you care about the open web?Do you want to eliminate platform lock in?Do you want to build website without having to think about it so much?Do you care about permanence, portability, and d</summary>
-    <link href="https://waxam.io/item-b5040654-1cde-4f9b-9856-874ec676c1a5"/>
+    <title>Integrations</title>
+    <id>https://waxam.io/services/integrations</id>
+    <updated>2019-06-09T10:29:15-06:00</updated>
+    <published>2019-06-09T10:28:01-06:00</published>
+    <summary>WaxaM specializes in integrations with the rest of your organization. Our experts have years of experience integrating web components and HAX related projects into production environments. We can help</summary>
+    <link href="https://waxam.io/services/integrations"/>
     
     <content type="html">
-      <![CDATA[ WaxaMDo you care about the open web?Do you want to eliminate platform lock in?Do you want to build website without having to think about it so much?Do you care about permanence, portability, and d ]]>
+      <![CDATA[ <p>WaxaM specializes in integrations with the rest of your organization. Our experts have years of experience integrating web components and HAX related projects into production environments. We can help you get HAX integrated into your organization top to bottom.</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -29,7 +30,13 @@
     <link href="https://waxam.io/web-components"/>
     
     <content type="html">
-      <![CDATA[ WaxaM works commonly in the following web component languagesPolymerLitElementVanillaJS ]]>
+      <![CDATA[ <p>WaxaM works commonly in the following web component languages</p>
+<ul><li>Polymer</li>
+
+<li>LitElement</li>
+<li>VanillaJS</li>
+</ul>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -41,7 +48,8 @@
     <link href="https://waxam.io/services"/>
     
     <content type="html">
-      <![CDATA[ Waxam provides all your training needs for your web component future ]]>
+      <![CDATA[ <p>Waxam provides all your training needs for your web component future</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -53,7 +61,14 @@
     <link href="https://waxam.io/haxeditor"/>
     
     <content type="html">
-      <![CDATA[ HAXeditor is a revolutionary new way of editing content. It's a block editor that can be extended by simply extending the web.Waxam experts can help you...Implement HAXEditor in your organizationCr ]]>
+      <![CDATA[ <p>HAXeditor is a revolutionary new way of editing content. It's a block editor that can be extended by simply extending the web.</p>
+<p>Waxam experts can help you...</p>
+<ul><li>Implement HAXEditor in your organization</li>
+<li>Create new elements for the HAXeditor</li>
+
+<li>Teach you how to make the most of your web development with Web components that work in HAXeditor</li>
+</ul>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -65,19 +80,36 @@
     <link href="https://waxam.io/haxcms"/>
     
     <content type="html">
-      <![CDATA[ HAXcms is a distributed publishing solution that requires minimal backend to setup and then no backend to power published sites.This workflow makes it ridiculously fast and secure without compromisin ]]>
+      <![CDATA[ <p>HAXcms is a distributed publishing solution that requires minimal backend to setup and then no backend to power published sites.</p>
+<p>This workflow makes it ridiculously fast and secure without compromising on features.</p>
+<p>WaxaM are experts in implementation, integration, extending and making recommendations about the HAXcms platform</p>
+<p>What we can provide</p>
+<ul><li>Implementation optimizations</li>
+
+<li>Trainings on using and building themes for HAXcms</li>
+<li>Best practices</li>
+</ul>
+ ]]>
     </content>
   </entry>
   <entry>
-    <title>Integrations</title>
-    <id>https://waxam.io/services/integrations</id>
-    <updated>2019-06-09T10:29:15-06:00</updated>
-    <published>2019-06-09T10:28:01-06:00</published>
-    <summary>WaxaM specializes in integrations with the rest of your organization. Our experts have years of experience integrating web components and HAX related projects into production environments. We can help</summary>
-    <link href="https://waxam.io/services/integrations"/>
+    <title>About Waxam</title>
+    <id>https://waxam.io/item-b5040654-1cde-4f9b-9856-874ec676c1a5</id>
+    <updated>2019-08-14T13:07:39-06:00</updated>
+    <published>2019-03-31T11:53:07-06:00</published>
+    <summary>WaxaM</summary>
+    <link href="https://waxam.io/item-b5040654-1cde-4f9b-9856-874ec676c1a5"/>
     
     <content type="html">
-      <![CDATA[ WaxaM specializes in integrations with the rest of your organization. Our experts have years of experience integrating web components and HAX related projects into production environments. We can help ]]>
+      <![CDATA[ <img style="width: 25%; margin: 0px auto; display: block;" src="files/bee.png" alt="WaxaM - Your a busy bee, let us deal with the hive, you deal with the honey." dataeditable="" datahaxray="Image"/><h2>WaxaM</h2>
+<p>Do you care about the open web?</p>
+<p>Do you want to eliminate platform lock in?</p>
+<p>Do you want to build website without having to think about it so much?</p>
+<p>Do you care about permanence, portability, and data privacy?</p>
+<p>Then we're building a platform and solutions for you. Built on top of the power open source projects HAXiam, HAXcms and HAXeditor, Waxam is your one stop for all things training and support related in the HAX ecosystem. Our experts live sleep and breath HAX related solutions and we can help you get started today.</p>
+<p>contact: info@waxam.io</p>
+<hero-banner title="Waxam" image="files/IMG_20181228_113330.jpg" details="Web components based SaaS, hosting, training and support services" button-text="More coming soon!" button-link="services" accent-color="grey" style="width: 100%;"></hero-banner>
+ ]]>
     </content>
   </entry>
 </feed>

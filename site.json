@@ -5,67 +5,74 @@
     "description": "waxam",
     "license": "by-sa",
     "metadata": {
-        "siteName": "waxamio",
-        "domain": "https:\/\/waxam.io",
-        "created": 1554054788,
-        "updated": 1560097696,
+        "site": {
+            "name": "waxamio",
+            "domain": "https:\/\/waxam.io",
+            "created": 1554054788,
+            "updated": 1560097696,
+            "git": {
+                "vendor": "github",
+                "branch": "master",
+                "staticBranch": "gh-pages",
+                "url": "git@github.com:waxam\/waxam.io.git"
+            },
+            "static": {
+                "cdn": "cdn.waxam.io",
+                "lastPublished": 1560104491,
+                "publishedLocation": "https:\/\/waxam.io"
+            }
+        },
         "theme": {
             "element": "haxcms-slide-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-slide-theme.js",
-            "name": "Slide deck"
-        },
-        "image": "files\/scale-50\/IMG_20181228_113330.jpg",
-        "hexCode": "#929100",
-        "cssVariable": "yellow",
-        "publishing": {
-            "git": {
-                "vendor": "github",
-                "branch": "gh-pages",
-                "url": "git@github.com:waxam\/waxam.io.git",
-                "cdn": "cdn.waxam.io"
+            "name": "Slide deck",
+            "variables": {
+                "icon": "maps:directions-boat",
+                "image": "files\/scale-50\/IMG_20181228_113330.jpg",
+                "hexCode": "#929100",
+                "cssVariable": "yellow"
             }
         },
-        "dynamicElementLoader": {
-            "a11y-gif-player": "@lrnwebcomponents\/a11y-gif-player\/a11y-gif-player.js",
-            "citation-element": "@lrnwebcomponents\/citation-element\/citation-element.js",
-            "hero-banner": "@lrnwebcomponents\/hero-banner\/hero-banner.js",
-            "image-compare-slider": "@lrnwebcomponents\/image-compare-slider\/image-compare-slider.js",
-            "license-element": "@lrnwebcomponents\/license-element\/license-element.js",
-            "lrn-aside": "@lrnwebcomponents\/lrn-aside\/lrn-aside.js",
-            "lrn-calendar": "@lrnwebcomponents\/lrn-calendar\/lrn-calendar.js",
-            "lrn-math": "@lrnwebcomponents\/lrn-math\/lrn-math.js",
-            "lrn-table": "@lrnwebcomponents\/lrn-table\/lrn-table.js",
-            "lrn-vocab": "@lrnwebcomponents\/lrn-vocab\/lrn-vocab.js",
-            "lrndesign-blockquote": "@lrnwebcomponents\/lrndesign-blockquote\/lrndesign-blockquote.js",
-            "magazine-cover": "@lrnwebcomponents\/magazine-cover\/magazine-cover.js",
-            "media-behaviors": "@lrnwebcomponents\/media-behaviors\/media-behaviors.js",
-            "media-image": "@lrnwebcomponents\/media-image\/media-image.js",
-            "meme-maker": "@lrnwebcomponents\/meme-maker\/meme-maker.js",
-            "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js",
-            "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
-            "multiple-choice": "@lrnwebcomponents\/multiple-choice\/multiple-choice.js",
-            "paper-audio-player": "@lrnwebcomponents\/paper-audio-player\/paper-audio-player.js",
-            "person-testimonial": "@lrnwebcomponents\/person-testimonial\/person-testimonial.js",
-            "place-holder": "@lrnwebcomponents\/place-holder\/place-holder.js",
-            "q-r": "@lrnwebcomponents\/q-r\/q-r.js",
-            "full-width-image": "@lrnwebcomponents\/full-width-image\/full-width-image.js",
-            "self-check": "@lrnwebcomponents\/self-check\/self-check.js",
-            "simple-concept-network": "@lrnwebcomponents\/simple-concept-network\/simple-concept-network.js",
-            "stop-note": "@lrnwebcomponents\/stop-note\/stop-note.js",
-            "tab-list": "@lrnwebcomponents\/tab-list\/tab-list.js",
-            "task-list": "@lrnwebcomponents\/task-list\/task-list.js",
-            "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
-            "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
-            "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js",
-            "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
-            "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js"
-        },
-        "lastPublished": 1560104491,
-        "icon": "maps:directions-boat",
-        "publishedLocation": "https:\/\/waxam.io",
-        "fields": {
-            "configure": [],
-            "advanced": []
+        "node": {
+            "fields": {
+                "configure": [],
+                "advanced": []
+            },
+            "dynamicElementLoader": {
+                "a11y-gif-player": "@lrnwebcomponents\/a11y-gif-player\/a11y-gif-player.js",
+                "citation-element": "@lrnwebcomponents\/citation-element\/citation-element.js",
+                "hero-banner": "@lrnwebcomponents\/hero-banner\/hero-banner.js",
+                "image-compare-slider": "@lrnwebcomponents\/image-compare-slider\/image-compare-slider.js",
+                "license-element": "@lrnwebcomponents\/license-element\/license-element.js",
+                "lrn-aside": "@lrnwebcomponents\/lrn-aside\/lrn-aside.js",
+                "lrn-calendar": "@lrnwebcomponents\/lrn-calendar\/lrn-calendar.js",
+                "lrn-math": "@lrnwebcomponents\/lrn-math\/lrn-math.js",
+                "lrn-table": "@lrnwebcomponents\/lrn-table\/lrn-table.js",
+                "lrn-vocab": "@lrnwebcomponents\/lrn-vocab\/lrn-vocab.js",
+                "lrndesign-blockquote": "@lrnwebcomponents\/lrndesign-blockquote\/lrndesign-blockquote.js",
+                "magazine-cover": "@lrnwebcomponents\/magazine-cover\/magazine-cover.js",
+                "media-behaviors": "@lrnwebcomponents\/media-behaviors\/media-behaviors.js",
+                "media-image": "@lrnwebcomponents\/media-image\/media-image.js",
+                "meme-maker": "@lrnwebcomponents\/meme-maker\/meme-maker.js",
+                "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js",
+                "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
+                "multiple-choice": "@lrnwebcomponents\/multiple-choice\/multiple-choice.js",
+                "paper-audio-player": "@lrnwebcomponents\/paper-audio-player\/paper-audio-player.js",
+                "person-testimonial": "@lrnwebcomponents\/person-testimonial\/person-testimonial.js",
+                "place-holder": "@lrnwebcomponents\/place-holder\/place-holder.js",
+                "q-r": "@lrnwebcomponents\/q-r\/q-r.js",
+                "full-width-image": "@lrnwebcomponents\/full-width-image\/full-width-image.js",
+                "self-check": "@lrnwebcomponents\/self-check\/self-check.js",
+                "simple-concept-network": "@lrnwebcomponents\/simple-concept-network\/simple-concept-network.js",
+                "stop-note": "@lrnwebcomponents\/stop-note\/stop-note.js",
+                "tab-list": "@lrnwebcomponents\/tab-list\/tab-list.js",
+                "task-list": "@lrnwebcomponents\/task-list\/task-list.js",
+                "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
+                "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
+                "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js",
+                "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
+                "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js"
+            }
         }
     },
     "items": [
@@ -75,11 +82,11 @@
             "location": "pages\/item-b5040654-1cde-4f9b-9856-874ec676c1a5\/index.html",
             "order": 0,
             "parent": null,
-            "title": "About us",
-            "description": "WaxaMDo you care about the open web?Do you want to eliminate platform lock in?Do you want to build website without having to think about it so much?Do you care about permanence, portability, and d",
+            "title": "About Waxam",
+            "description": "WaxaM",
             "metadata": {
                 "created": 1554054787,
-                "updated": 1560104479,
+                "updated": 1565809659,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/waxam\/files\/scale-50\/IMG_20181228_113330.jpg",
