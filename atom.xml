@@ -2,23 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>WaxaM</title>
   <link href="https://waxam.io/atom.xml" rel="self" />
-  <subtitle>waxam</subtitle>
-  <updated>2019-06-09T10:28:16-06:00</updated>
+  <subtitle>WaxaM</subtitle>
+  <updated>2019-08-14T14:16:43-06:00</updated>
   <author>
       <name></name>
   </author>
   <id>https://waxam.io/feed</id>
   <entry>
-    <title>Services</title>
-    <id>https://waxam.io/services</id>
+    <title>Integrations</title>
+    <id>https://waxam.io/integrations</id>
     <updated>2019-08-14T13:14:51-06:00</updated>
-    <published>2019-03-31T11:54:50-06:00</published>
-    <summary>Waxam provides all your training needs for your web component future</summary>
-    <link href="https://waxam.io/services"/>
+    <published>2019-08-14T13:14:51-06:00</published>
+    <summary></summary>
+    <link href="https://waxam.io/integrations"/>
     
     <content type="html">
-      <![CDATA[ <p>Waxam provides all your training needs for your web component future</p>
- ]]>
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
     </content>
   </entry>
   <entry>
@@ -36,6 +35,19 @@
 <li>LitElement</li>
 <li>VanillaJS</li>
 </ul>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Services</title>
+    <id>https://waxam.io/services</id>
+    <updated>2019-08-14T13:14:51-06:00</updated>
+    <published>2019-03-31T11:54:50-06:00</published>
+    <summary>Waxam provides all your training needs for your web component future</summary>
+    <link href="https://waxam.io/services"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Waxam provides all your training needs for your web component future</p>
  ]]>
     </content>
   </entry>
@@ -82,14 +94,14 @@
   <entry>
     <title>About Waxam</title>
     <id>https://waxam.io/item-b5040654-1cde-4f9b-9856-874ec676c1a5</id>
-    <updated>2019-08-14T13:14:51-06:00</updated>
+    <updated>2019-08-15T07:48:41-06:00</updated>
     <published>2019-03-31T11:53:07-06:00</published>
-    <summary>WaxaMFlip the industry on it's head, doesn't matter; WaxaM will survive any change.Boldness or blindness in that statement?We're here to build a platform that enhances the open web and makes it fun</summary>
+    <summary>WaxaMWe're here to flip the industry on its head. Forward, backward, upside-down; WaxaM is built to survive any sea change.Boldness or blindness in that statement?We're here to build a platform tha</summary>
     <link href="https://waxam.io/item-b5040654-1cde-4f9b-9856-874ec676c1a5"/>
     
     <content type="html">
       <![CDATA[ <img style="width: 25%; margin: 0px auto; display: block;" src="files/bee.png" alt="WaxaM - Your a busy bee, let us deal with the hive, you deal with the honey." dataeditable="" datahaxray="Image"/><h2>WaxaM</h2>
-<p>Flip the industry on it's head, doesn't matter; WaxaM will survive any change.</p>
+<p>We're here to flip the industry on its head. Forward, backward, upside-down; WaxaM is built to survive any sea change.</p>
 <p>Boldness or blindness in that statement?</p>
 <p>We're here to build a platform that enhances the open web and makes it fundamentally more sustainable, leveraging the web components standard.</p>
 <p>We're here to empower authors, bloggers, developers, anyone involved in the web to deliver a faster, more accessible, and fundamentally better product.</p>
