@@ -196,10 +196,27 @@
             "order": "2",
             "parent": null,
             "title": "Integrations",
-            "description": "",
+            "description": "Ex uno PluresHeadingA paragraph of text would go here to describe the work.",
             "metadata": {
                 "created": 1565810091,
-                "updated": 1565810091
+                "updated": 1565978104,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [
+                        {
+                            "resource": "#a47f6c70-be22-90df-275e",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 1,
+                        "grid-plate": 1,
+                        "license-element": 1
+                    },
+                    "elements": 3
+                }
             }
         }
     ]
