@@ -24,7 +24,7 @@
   <entry>
     <title>Web components</title>
     <id>https://waxam.io/web-components</id>
-    <updated>2019-08-14T13:14:51-06:00</updated>
+    <updated>2019-12-06T14:17:08-07:00</updated>
     <published>2019-03-31T11:54:50-06:00</published>
     <summary>WaxaM works commonly in the following web component languagesPolymerLitElementVanillaJS</summary>
     <link href="https://waxam.io/web-components"/>
@@ -32,11 +32,10 @@
     <content type="html">
       <![CDATA[ <p>WaxaM works commonly in the following web component languages</p>
 <ul><li>Polymer</li>
-
 <li>LitElement</li>
 <li>VanillaJS</li>
 </ul>
- ]]>
+<img src="files/overflow.png" alt="dfgdfgdfgdfg" height="100"/> ]]>
     </content>
   </entry>
   <entry>

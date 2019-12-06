@@ -147,7 +147,7 @@
             "description": "WaxaM works commonly in the following web component languagesPolymerLitElementVanillaJS",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1565810091,
+                "updated": 1575667028,
                 "readtime": 1,
                 "files": [
                     {
@@ -158,7 +158,18 @@
                         "name": "overflow.png",
                         "size": 14971
                     }
-                ]
+                ],
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1,
+                        "ul": 1,
+                        "img": 1
+                    },
+                    "elements": 3
+                }
             }
         },
         {
