@@ -148,7 +148,17 @@
             "metadata": {
                 "created": 1554054890,
                 "updated": 1565810091,
-                "readtime": 1
+                "readtime": 1,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/waxamio\/files\/overflow.png",
+                        "fullUrl": "\/sites\/waxamio\/files\/overflow.png",
+                        "url": "files\/overflow.png",
+                        "type": "image\/png",
+                        "name": "overflow.png",
+                        "size": 14971
+                    }
+                ]
             }
         },
         {
