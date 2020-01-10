@@ -9,7 +9,7 @@
             "name": "waxamio",
             "domain": "https:\/\/waxam.io",
             "created": 1554054788,
-            "updated": 1572928709,
+            "updated": 1578683452,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -25,7 +25,7 @@
                 "offline": false
             },
             "version": "0.12.3",
-            "logo": "",
+            "logo": "null",
             "settings": {
                 "pathauto": false,
                 "publishPagesOn": false,
@@ -38,10 +38,10 @@
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-slide-theme.js",
             "name": "Slide deck",
             "variables": {
-                "image": "",
+                "image": "null",
                 "hexCode": "",
-                "cssVariable": "--simple-colors-default-theme--7",
-                "icon": ""
+                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
+                "icon": "icons:arrow-drop-down"
             }
         },
         "node": {
@@ -86,7 +86,7 @@
             }
         },
         "author": {
-            "image": "",
+            "image": "null",
             "name": "",
             "email": "info@waxam.io",
             "socialLink": ""
