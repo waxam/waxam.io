@@ -203,6 +203,14 @@
                         "type": "image\/jpeg",
                         "name": "jX75z6re_400x400.jpg",
                         "size": 15929
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/waxamio\/files\/jX75z6re_400x400.jpg",
+                        "fullUrl": "\/sites\/waxamio\/files\/jX75z6re_400x400.jpg",
+                        "url": "files\/jX75z6re_400x400.jpg",
+                        "type": "image\/jpeg",
+                        "name": "jX75z6re_400x400.jpg",
+                        "size": 15929
                     }
                 ]
             }
