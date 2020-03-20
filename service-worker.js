@@ -37,7 +37,112 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }};
+var precacheConfig = [
+    [
+        "pages\/item-b5040654-1cde-4f9b-9856-874ec676c1a5\/index.html",
+        "d87BrDKuVvGnRqe0hfhqmQ"
+    ],
+    [
+        "pages\/web-components\/index.html",
+        "V1FhecDITMk385Kma27WIg"
+    ],
+    [
+        "pages\/services\/index.html",
+        "N1Qao85e6OQsQ5IT4wMrLA"
+    ],
+    [
+        "pages\/haxeditor\/index.html",
+        "CpHDpClRPTkIhlDu4Q4EYA"
+    ],
+    [
+        "pages\/haxcms\/index.html",
+        "ma1zOwEWvoyA7mqMkvAhbw"
+    ],
+    [
+        "pages\/integrations\/index.html",
+        "ac5jj4wLAzg4FM7VYNc7nQ"
+    ],
+    [
+        "index.html",
+        "WGa3vji4VdX4pB29a5rsbQ"
+    ],
+    [
+        "files\/haxcms-managed\/512x512-jX75z6re_400x400.jpg",
+        "HG1fCn6T8bkXXG5ZOfTCZg"
+    ],
+    [
+        "files\/haxcms-managed\/310x310-jX75z6re_400x400.jpg",
+        "ophJARdvvT0SxeKBzrLxQ"
+    ],
+    [
+        "files\/haxcms-managed\/192x192-jX75z6re_400x400.jpg",
+        "GMX7QuCTo8t85rdB3Dp8pA"
+    ],
+    [
+        "files\/haxcms-managed\/150x150-jX75z6re_400x400.jpg",
+        "LjLnttDfWODHy8emDIOEDA"
+    ],
+    [
+        "files\/haxcms-managed\/144x144-jX75z6re_400x400.jpg",
+        "t5oDY3FgEjAtQx5G1vg09g"
+    ],
+    [
+        "files\/haxcms-managed\/96x96-jX75z6re_400x400.jpg",
+        "Dt0TLQDSaCfTVhwSPPzA5w"
+    ],
+    [
+        "files\/haxcms-managed\/72x72-jX75z6re_400x400.jpg",
+        "7PJho022F0dqCj483W8mg"
+    ],
+    [
+        "files\/haxcms-managed\/70x70-jX75z6re_400x400.jpg",
+        "ewh3X6h73FDX8kIXeeorcA"
+    ],
+    [
+        "files\/haxcms-managed\/48x48-jX75z6re_400x400.jpg",
+        "eK26Wv9pf3HIPXeaa9APA"
+    ],
+    [
+        "files\/haxcms-managed\/36x36-jX75z6re_400x400.jpg",
+        "dZhpe6X4xkIWPId8XhCiw"
+    ],
+    [
+        "files\/haxcms-managed\/16x16-jX75z6re_400x400.jpg",
+        "OzJtofC90z0ejHS1Dzwuw"
+    ],
+    [
+        "manifest.json",
+        "gmNXxVtnfpUk2yLp2YOQ"
+    ],
+    [
+        "site.json",
+        "xc1FcBdhoZglFRA7DRLw"
+    ],
+    [
+        "404.html",
+        "QEzLbAYRfRrqwxyIGIpfNQ"
+    ],
+    [
+        "files\/._.DS_Store",
+        "A0pQqDXkb1dum938Ip9Mxw"
+    ],
+    [
+        "files\/jX75z6re_400x400.jpg",
+        "OG13mZUvEhumbcToZU6MEQ"
+    ],
+    [
+        "files\/overflow.png",
+        "3B2QR0Lc0FcFkJZ9ovnfPw"
+    ],
+    [
+        "files\/IMG_20181228_113330.jpg",
+        "5b8FWMpVFsnQhPMXttFD7w"
+    ],
+    [
+        "files\/bee.png",
+        "MFngOAGtorvH78WS446Q"
+    ]
+];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -285,6 +390,3 @@ self.addEventListener('fetch', function (event) {
 
 
 // Runtime cache configuration, using the sw-toolbox library.
-{% if cdnRegex %}
-toolbox.router.get(/{{ cdnRegex|raw }}/, toolbox.fastest, {});
-{% endif %}

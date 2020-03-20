@@ -1,14 +1,14 @@
 {
-    "title": "{{ title }}",
-    "description": "{{ description }}",
+    "title": "WaxaM",
+    "description": "WaxaM llc",
     "type": [
         "website", "HAXcms"
     ],
     "links": {
         "license": [
             {
-                "href": "{{ licenseLink }}",
-                "title": "{{ licenseName }}"
+                "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "title": "License: Creative Commons: Attribution Share a like"
             }
         ]
     }

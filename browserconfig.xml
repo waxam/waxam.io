@@ -2,10 +2,10 @@
 <browserconfig>
 	<msapplication>
 		<tile>
-			<square70x70logo src="{{ logo70x70 }}"/>
-			<square150x150logo src="{{ logo150x150 }}"/>
-			<square310x310logo src="{{ logo310x310 }}"/>
-			<TileColor>{{ hexCode }}</TileColor>
+			<square70x70logo src="files/haxcms-managed/70x70-jX75z6re_400x400.jpg"/>
+			<square150x150logo src="files/haxcms-managed/150x150-jX75z6re_400x400.jpg"/>
+			<square310x310logo src="files/haxcms-managed/310x310-jX75z6re_400x400.jpg"/>
+			<TileColor></TileColor>
 		</tile>
 	</msapplication>
 </browserconfig>
