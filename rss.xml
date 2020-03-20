@@ -6,7 +6,7 @@
     <description>WaxaM</description>
     <copyright>Copyright (C) 2020 https://waxam.io</copyright>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2019 21:38:29 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 19:10:52 +0000</lastBuildDate>
     <atom:link href="https://waxam.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Integrations</title>
@@ -17,22 +17,21 @@
       </description>
       <category></category>
       <guid>https://waxam.io/integrations</guid>
-      <pubDate>Wed, 14 Aug 2019 13:14:51 -0600</pubDate>
+      <pubDate>Wed, 14 Aug 2019 19:14:51 +0000</pubDate>
     </item>
     <item>
       <title>Web components</title>
       <link>https://waxam.io/web-components</link>
       <description>
           <![CDATA[ <p>WaxaM works commonly in the following web component languages</p>
-<ul><li>Polymer</li>
-<li>LitElement</li>
+<ul><li>LitElement</li>
 <li>VanillaJS</li>
 </ul>
 <img src="files/overflow.png" alt="dfgdfgdfgdfg" height="100"/> ]]>
       </description>
       <category></category>
       <guid>https://waxam.io/web-components</guid>
-      <pubDate>Sun, 31 Mar 2019 11:54:50 -0600</pubDate>
+      <pubDate>Sun, 31 Mar 2019 17:54:50 +0000</pubDate>
     </item>
     <item>
       <title>Services</title>
@@ -43,7 +42,7 @@
       </description>
       <category></category>
       <guid>https://waxam.io/services</guid>
-      <pubDate>Sun, 31 Mar 2019 11:54:50 -0600</pubDate>
+      <pubDate>Sun, 31 Mar 2019 17:54:50 +0000</pubDate>
     </item>
     <item>
       <title>HAXEditor</title>
@@ -60,7 +59,7 @@
       </description>
       <category></category>
       <guid>https://waxam.io/haxeditor</guid>
-      <pubDate>Sun, 31 Mar 2019 11:54:50 -0600</pubDate>
+      <pubDate>Sun, 31 Mar 2019 17:54:50 +0000</pubDate>
     </item>
     <item>
       <title>HAXcms</title>
@@ -79,7 +78,7 @@
       </description>
       <category></category>
       <guid>https://waxam.io/haxcms</guid>
-      <pubDate>Sun, 31 Mar 2019 11:54:50 -0600</pubDate>
+      <pubDate>Sun, 31 Mar 2019 17:54:50 +0000</pubDate>
     </item>
     <item>
       <title>About Waxam</title>
@@ -103,7 +102,7 @@
       </description>
       <category></category>
       <guid>https://waxam.io/item-b5040654-1cde-4f9b-9856-874ec676c1a5</guid>
-      <pubDate>Sun, 31 Mar 2019 11:53:07 -0600</pubDate>
+      <pubDate>Sun, 31 Mar 2019 17:53:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

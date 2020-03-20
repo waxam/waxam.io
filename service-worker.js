@@ -37,100 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "pages\/item-b5040654-1cde-4f9b-9856-874ec676c1a5\/index.html",
-        "MFzKRHKNgjZ4l4KL2WF2Mw"
-    ],
-    [
-        "pages\/web-components\/index.html",
-        "he5LhcicBLwf7Rwk1YhU9w"
-    ],
-    [
-        "pages\/services\/index.html",
-        "7LeASDhy38SymhTowpKRQ"
-    ],
-    [
-        "pages\/haxeditor\/index.html",
-        "CpHDpClRPTkIhlDu4Q4EYA"
-    ],
-    [
-        "pages\/haxcms\/index.html",
-        "ma1zOwEWvoyA7mqMkvAhbw"
-    ],
-    [
-        "pages\/integrations\/index.html",
-        "T8OLNE3PU9YSlBj5cabXAw"
-    ],
-    [
-        "index.html",
-        "NzJOQEHdJPaVVYOl0rqGw"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "",
-        "tfrubF66elyKHyU08QkaaA"
-    ],
-    [
-        "manifest.json",
-        "gmNXxVtnfpUk2yLp2YOQ"
-    ],
-    [
-        "site.json",
-        "TsaWhMyIG3JNaZqlyG2yw"
-    ],
-    [
-        "404.html",
-        "QEzLbAYRfRrqwxyIGIpfNQ"
-    ],
-    [
-        "files\/IMG_20181228_113330.jpg",
-        "5b8FWMpVFsnQhPMXttFD7w"
-    ],
-    [
-        "files\/bee.png",
-        "MFngOAGtorvH78WS446Q"
-    ]
-];
+var precacheConfig = {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -378,3 +285,6 @@ self.addEventListener('fetch', function (event) {
 
 
 // Runtime cache configuration, using the sw-toolbox library.
+{% if cdnRegex %}
+toolbox.router.get(/{{ cdnRegex|raw }}/, toolbox.fastest, {});
+{% endif %}

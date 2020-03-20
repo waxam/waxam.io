@@ -144,10 +144,10 @@
             "order": "0",
             "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
             "title": "Web components",
-            "description": "WaxaM works commonly in the following web component languagesPolymerLitElementVanillaJS",
+            "description": "WaxaM works commonly in the following web component languagesLitElementVanillaJS",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1575667028,
+                "updated": 1584715224,
                 "readtime": 1,
                 "files": [
                     {

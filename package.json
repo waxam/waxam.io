@@ -1,7 +1,7 @@
 {
-  "name": "wcfactory",
-  "version": "0.12.3",
-  "description": "Documentation and tutorials on WCFactory",
+  "name": "{{ short }}",
+  "version": "{{ version }}",
+  "description": "{{ description }}",
   "main": "index.html",
   "repository": {
     "type": "git",

@@ -2,10 +2,10 @@
 <browserconfig>
 	<msapplication>
 		<tile>
-			<square70x70logo src=""/>
-			<square150x150logo src=""/>
-			<square310x310logo src=""/>
-			<TileColor></TileColor>
+			<square70x70logo src="{{ logo70x70 }}"/>
+			<square150x150logo src="{{ logo150x150 }}"/>
+			<square310x310logo src="{{ logo310x310 }}"/>
+			<TileColor>{{ hexCode }}</TileColor>
 		</tile>
 	</msapplication>
 </browserconfig>
