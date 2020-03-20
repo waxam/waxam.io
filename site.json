@@ -179,10 +179,22 @@
             "order": "1",
             "parent": null,
             "title": "Services",
-            "description": "Waxam provides all your training needs for your web component future",
+            "description": "Waxam provides all your training needs for your web component futureCDNKnow that web components are the future but just want a place that hosts them and quickly? WaxaM specializes in getting the bui",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1565810091
+                "updated": 1584715539,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 2,
+                    "paragraphs": 6,
+                    "schema": [],
+                    "tags": {
+                        "p": 6,
+                        "h2": 2,
+                        "ul": 1
+                    },
+                    "elements": 9
+                }
             }
         },
         {
