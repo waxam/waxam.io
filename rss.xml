@@ -3,10 +3,10 @@
   <channel>
     <title>WaxaM</title>
     <link>https://waxam.io/rss.xml</link>
-    <description>WaxaM</description>
+    <description>WaxaM llc</description>
     <copyright>Copyright (C) 2020 https://waxam.io</copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 19:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 14:47:51 +0000</lastBuildDate>
     <atom:link href="https://waxam.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Integrations</title>
@@ -23,10 +23,12 @@
       <title>Web components</title>
       <link>https://waxam.io/web-components</link>
       <description>
-          <![CDATA[ <p>WaxaM works commonly in the following web component languages</p>
+          <![CDATA[ <p>WaxaM works commonly in the following web component languages and are recognized industry leaders in the development and trainings associated with</p>
 <ul><li>LitElement</li>
 <li>VanillaJS</li>
+<li>OpenWC workflows and tooling</li>
 </ul>
+<p><span>Know how to make web components but unsure of the best way to deploy? Talk to our team about our recommendations around how to ship web components for maximal resuse!</span></p>
 <img src="files/overflow.png" alt="dfgdfgdfgdfg" height="100"/> ]]>
       </description>
       <category></category>

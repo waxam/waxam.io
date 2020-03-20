@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>WaxaM</title>
   <link href="https://waxam.io/atom.xml" rel="self" />
-  <subtitle>WaxaM</subtitle>
-  <updated>2020-01-10T19:10:52+00:00</updated>
+  <subtitle>WaxaM llc</subtitle>
+  <updated>2020-03-20T14:47:51+00:00</updated>
   <author>
       <name></name>
   </author>
@@ -24,16 +24,18 @@
   <entry>
     <title>Web components</title>
     <id>https://waxam.io/web-components</id>
-    <updated>2020-03-20T14:40:24+00:00</updated>
+    <updated>2020-03-20T14:49:05+00:00</updated>
     <published>2019-03-31T17:54:50+00:00</published>
-    <summary>WaxaM works commonly in the following web component languagesLitElementVanillaJS</summary>
+    <summary>WaxaM works commonly in the following web component languages and are recognized industry leaders in the development and trainings associated withLitElementVanillaJSOpenWC workflows and toolingKn</summary>
     <link href="https://waxam.io/web-components"/>
     
     <content type="html">
-      <![CDATA[ <p>WaxaM works commonly in the following web component languages</p>
+      <![CDATA[ <p>WaxaM works commonly in the following web component languages and are recognized industry leaders in the development and trainings associated with</p>
 <ul><li>LitElement</li>
 <li>VanillaJS</li>
+<li>OpenWC workflows and tooling</li>
 </ul>
+<p><span>Know how to make web components but unsure of the best way to deploy? Talk to our team about our recommendations around how to ship web components for maximal resuse!</span></p>
 <img src="files/overflow.png" alt="dfgdfgdfgdfg" height="100"/> ]]>
     </content>
   </entry>

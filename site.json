@@ -144,10 +144,10 @@
             "order": "0",
             "parent": "item-1f6cfde5-2625-4e8d-9752-03b7224274b1",
             "title": "Web components",
-            "description": "WaxaM works commonly in the following web component languagesLitElementVanillaJS",
+            "description": "WaxaM works commonly in the following web component languages and are recognized industry leaders in the development and trainings associated withLitElementVanillaJSOpenWC workflows and toolingKn",
             "metadata": {
                 "created": 1554054890,
-                "updated": 1584715224,
+                "updated": 1584715745,
                 "readtime": 1,
                 "files": [
                     {
@@ -161,14 +161,14 @@
                 ],
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 1,
+                    "paragraphs": 2,
                     "schema": [],
                     "tags": {
-                        "p": 1,
+                        "p": 2,
                         "ul": 1,
                         "img": 1
                     },
-                    "elements": 3
+                    "elements": 4
                 }
             }
         },
