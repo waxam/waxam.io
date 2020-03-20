@@ -2,14 +2,14 @@
     "id": "eafdefa1-fc9a-4bde-baa8-58454a9c5b56",
     "title": "WaxaM",
     "author": "",
-    "description": "WaxaM",
+    "description": "WaxaM llc",
     "license": "by-sa",
     "metadata": {
         "site": {
             "name": "waxamio",
             "domain": "https:\/\/waxam.io",
             "created": 1554054788,
-            "updated": 1578683452,
+            "updated": 1584715671,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -24,8 +24,8 @@
                 "publishedLocation": "https:\/\/waxam.io",
                 "offline": false
             },
-            "version": "0.12.3",
-            "logo": "null",
+            "version": "1.1.1",
+            "logo": "files\/jX75z6re_400x400.jpg",
             "settings": {
                 "pathauto": false,
                 "publishPagesOn": false,
@@ -34,14 +34,14 @@
             }
         },
         "theme": {
-            "element": "haxcms-slide-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-slide-theme.js",
-            "name": "Slide deck",
+            "element": "outline-player",
+            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
+            "name": "Documentation",
             "variables": {
-                "image": "null",
+                "image": "files\/jX75z6re_400x400.jpg",
                 "hexCode": "",
-                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
-                "icon": "icons:arrow-drop-down"
+                "cssVariable": "--simple-colors-default-theme-green-7",
+                "icon": "icons:cloud-done"
             }
         },
         "node": {
@@ -87,9 +87,9 @@
         },
         "author": {
             "image": "null",
-            "name": "",
+            "name": "WaxaM",
             "email": "info@waxam.io",
-            "socialLink": ""
+            "socialLink": "https:\/\/twitter.com\/getWaxam"
         }
     },
     "items": [
