@@ -2,14 +2,14 @@
     "id": "eafdefa1-fc9a-4bde-baa8-58454a9c5b56",
     "title": "WaxaM",
     "author": "",
-    "description": "WaxaM llc",
+    "description": "WaxaM",
     "license": "by-sa",
     "metadata": {
         "site": {
             "name": "waxamio",
             "domain": "https:\/\/waxam.io",
             "created": 1554054788,
-            "updated": 1584715671,
+            "updated": 1586374011,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -24,7 +24,7 @@
                 "publishedLocation": "https:\/\/waxam.io",
                 "offline": false
             },
-            "version": "1.1.1",
+            "version": "1.1.2",
             "logo": "files\/jX75z6re_400x400.jpg",
             "settings": {
                 "pathauto": false,
