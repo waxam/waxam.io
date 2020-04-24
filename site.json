@@ -9,7 +9,7 @@
             "name": "waxamio",
             "domain": "https:\/\/waxam.io",
             "created": 1554054788,
-            "updated": 1586374011,
+            "updated": 1587752371,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -24,7 +24,7 @@
                 "publishedLocation": "https:\/\/waxam.io",
                 "offline": false
             },
-            "version": "1.1.2",
+            "version": "1.1.3",
             "logo": "files\/jX75z6re_400x400.jpg",
             "settings": {
                 "pathauto": false,
