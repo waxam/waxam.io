@@ -64,7 +64,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "8DziwZUUW7yRcamiowQ"
+        "8jL4Zkysrz1VTV4l73HRQ"
     ],
     [
         "files\/haxcms-managed\/512x512-jX75z6re_400x400.jpg",
@@ -112,7 +112,7 @@ var precacheConfig = [
     ],
     [
         "manifest.json",
-        "gmNXxVtnfpUk2yLp2YOQ"
+        "CaDCUEIfSntkoTB9bN2FZw"
     ],
     [
         "site.json",

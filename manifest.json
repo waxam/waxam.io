@@ -46,8 +46,8 @@
             "density": "4.0"
         }
     ],
-    "scope": "/sites/waxamio/",
-    "start_url": "/sites/waxamio/",
+    "scope": "",
+    "start_url": "",
     "display": "standalone",
     "theme_color": "",
     "background_color": ""
