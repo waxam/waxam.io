@@ -64,7 +64,15 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "8jL4Zkysrz1VTV4l73HRQ"
+        "K9IhVzJvJzntP9tsZ93kRQ"
+    ],
+    [
+        "manifest.json",
+        "NQ6UNvs0WLO64hLCcFE39A"
+    ],
+    [
+        "site.json",
+        "13g3jxQkQwsRetRmqVVCdw"
     ],
     [
         "files\/haxcms-managed\/512x512-jX75z6re_400x400.jpg",
@@ -111,20 +119,8 @@ var precacheConfig = [
         "OzJtofC90z0ejHS1Dzwuw"
     ],
     [
-        "manifest.json",
-        "CaDCUEIfSntkoTB9bN2FZw"
-    ],
-    [
-        "site.json",
-        "MDgBRugEODtfRbugr07uA"
-    ],
-    [
         "404.html",
         "QEzLbAYRfRrqwxyIGIpfNQ"
-    ],
-    [
-        "files\/._.DS_Store",
-        "A0pQqDXkb1dum938Ip9Mxw"
     ],
     [
         "files\/jX75z6re_400x400.jpg",
